@@ -1,5 +1,5 @@
 {
-    "name": "wizaplace/php-fpm-status-cli",
+    "name": "contextualcode/php-fpm-status-cli",
     "description": "PHP-FPM status-page CLI",
     "license": "MIT",
     "require": {
